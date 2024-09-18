@@ -12,7 +12,7 @@
   </div>
 </template>
 
-<!-- <script>
+<script>
 import axios from 'axios';
 import {
   Chart,
@@ -196,7 +196,7 @@ export default {
     this.fetchWeeklySalesData();   // Fetch weekly sales datad
   },
 };
-</script> -->
+</script>
 
 
 <style scoped>
